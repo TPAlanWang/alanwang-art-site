@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://TpAlanWang.github.io/alanwang-art-site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://TpAlanWang.github.io/alanwang-art-site/</loc>
+</url>
+<url>
+<loc>https://TpAlanWang.github.io/alanwang-art-site/aida-ban-2.html</loc>
+<lastmod>2026-04-11T01:38:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://TpAlanWang.github.io/alanwang-art-site/guan-yu-wo-about-me-2.html</loc>
+<lastmod>2026-04-11T22:43:55+08:00</lastmod>
+<image:image>
+<image:loc>https://TpAlanWang.github.io/alanwang-art-site/media/posts/3/My-Photo-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://TpAlanWang.github.io/alanwang-art-site/guan-yu-wo-about-me.html</loc>
+<lastmod>2026-04-11T22:41:09+08:00</lastmod>
+<image:image>
+<image:loc>https://TpAlanWang.github.io/alanwang-art-site/media/posts/2/My-Photo.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://TpAlanWang.github.io/alanwang-art-site/jin-qi-yan-chu-upcomming-gigs.html</loc>
+<lastmod>2026-04-11T14:54:36+08:00</lastmod>
+</url>
+<url>
+<loc>https://TpAlanWang.github.io/alanwang-art-site/lian-luo-zi-xun-contact-me.html</loc>
+<lastmod>2026-04-11T17:13:12+08:00</lastmod>
+</url>
+<url>
+<loc>https://TpAlanWang.github.io/alanwang-art-site/yan-chu-ji-lu-live-clips.html</loc>
+<lastmod>2026-04-11T22:39:01+08:00</lastmod>
+</url>
+</urlset>
