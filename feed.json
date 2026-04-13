@@ -23,10 +23,11 @@
                    "Tea｜時間與感官",
                    "Notes｜文字．片段",
                    "Music｜現場與練習",
-                   "Making｜結構與手感"
+                   "Making｜結構與手感",
+                   "Fragments｜總集"
             ],
             "date_published": "2026-04-12T22:25:41+08:00",
-            "date_modified": "2026-04-14T00:42:45+08:00"
+            "date_modified": "2026-04-14T03:16:22+08:00"
         },
         {
             "id": "https://alanwang.art/the-one-who-got-me-into-jazz/",
@@ -40,10 +41,11 @@
             },
             "tags": [
                    "Music｜現場與練習",
-                   "Interlude｜片刻之章"
+                   "Interlude｜片刻之章",
+                   "Fragments｜總集"
             ],
             "date_published": "2026-04-12T18:08:03+08:00",
-            "date_modified": "2026-04-14T00:42:59+08:00"
+            "date_modified": "2026-04-14T03:16:08+08:00"
         },
         {
             "id": "https://alanwang.art/ai-assisted-parametric-pattern-making/",
@@ -55,10 +57,11 @@
                 "name": "王昱荃 Alan Wang"
             },
             "tags": [
-                   "Making｜結構與手感"
+                   "Making｜結構與手感",
+                   "Fragments｜總集"
             ],
             "date_published": "2026-04-11T01:38:00+08:00",
-            "date_modified": "2026-04-14T00:43:10+08:00"
+            "date_modified": "2026-04-14T02:48:59+08:00"
         }
     ]
 }
