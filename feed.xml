@@ -3,7 +3,7 @@
     <title>王昱荃 Alan Wang</title>
     <link href="https://alanwang.art/feed.xml" rel="self" />
     <link href="https://alanwang.art" />
-    <updated>2026-04-19T07:55:07+08:00</updated>
+    <updated>2026-04-19T08:53:15+08:00</updated>
     <author>
         <name>王昱荃 Alan Wang</name>
     </author>
@@ -29,7 +29,7 @@
         <content type="html">
             <![CDATA[
                 <p>一開始，是偶然在 YouTube 上發現 <a href="http://nicechord.com">Nicechord 好和弦</a>。</p><p>當時就覺得，居然有音樂教學的頻道，內容能夠從初學一路到進階、甚至涵蓋專業概念，真是難得👍 更厲害的是，Wiwi 不侷限於單一樂器及樂風。</p>
-以我自己較熟悉的古典樂及爵士樂領域來說，Wiwi 介紹這兩種音樂時，都能明顯感覺到他是真的抓到了核心重點，尤其是能夠以非常有邏輯又簡明的方式清楚說明，真的是太厲害了！
+以我自己較熟悉的古典樂及爵士樂領域來說，Wiwi 介紹這兩種音樂時，都能明顯感覺到他是真的抓到了核心重點，尤其是能夠以非常有邏輯又簡明的方式清楚說明，真的是太厲害了！<br><br>
 
 <p>他的很多影片都讓我大開眼界，原來音樂還可以這樣玩🤯 特別推薦他的<a href="https://wiwi.video/w/imR9nvR7AT98ix85CryCyg">Fusion的影片</a>，實在是超帥，從來沒想過這樣的編曲方式～</p><p>後來 Wiwi 在介紹 Muxicha 筆電的影片中<a href="https://wiwi.video/w/vwyX6X8c3xPttYKrCCDkqv">用 Linux 做音樂</a>，以及後續的<a href="https://wiwi.video/w/f6tS1fxhwmy7iEWGV2PcoZ">實際示範</a>更是讓我大受震撼。</p><p>其實，我在國小時電腦課就曾經聽老師講述過自由軟體的概念，當時就很感興趣，還幻想過有一天能夠有一台完全由自由軟體組成的電腦🤓 只是當時相關資訊不多，加上在家用電腦的時間被爸媽嚴格限制，時間寶貴，只能全部分配給打電動，因此沒有進一步研究，這個想法也就逐漸被淡忘了。</p><p>直到 Wiwi 發布這部影片，重新喚起了這個小小的夢想🤩 於是我馬上把我的桌機裝了 Ubuntu，開始用 Ardour 做音樂。因為當時沒有錄音設備，錄小號 Session 時只能用我的 iPhone 6S Plus 接上<a href="https://zoomcorp.com/en/us/mobile-audio-recorders/ios-microphones/iq7/"> Zoom iQ7</a>，一句一句錄下來，再把所有檔案丟進 Ardour 拼起來。這種土砲作法超累，但是做起來很開心，我終於可以自己錄東西，玩混音了🥰</p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LDzeunY7iKs?si=8B8_m7AJpvNvQqgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -42,8 +42,8 @@
 所以買了好和弦的<a href="https://nicechord.com/nicechord-family-pack/">家庭號大包裝</a>，以微薄之力，默默表達我對 Wiwi 的感謝🤗</p><p>後來好和弦 Youtube 頻道停更後，我依然持續追蹤 Wiwi 的個人 Blog。<br>在 Blog 中，他從自由軟體的使用，到對數位主權的探討，讓我發現除了選擇自由軟體作為工具，還有更宏大的理念可以繼續延展。<br>
 看了關於離線AI的<a href="https://wiwi.blog/blog/offline-ai">文章</a>後我也嘗試自己建構本地 AI 模型，不過因為沒有顯卡，速度實在慢到受不了，很快就放棄了😢</p><p>Wiwi 開始推廣個人部落格後，我也一直想要跟進。看著一篇又一篇的推坑文，BlogBlog 的熱鬧盛況，雖然很心動（甚至想像自己參加了 BlogBlog，還在心裡寫了一篇文🤣 ），但是拖延症實在太過強大，讓我一直沒有實際動手😝</p><p>到了這個月，我終於下定決心架設了我的<a href="https://alanwang.art">個人網站</a>，並且終於如願參加BlogBlog了🥳
 同時，我也被成功推坑，開始學習 Markdown 語法，用 Micro 打文章（這篇文就是在終端機裡面用 Micro 打的）。</p><p>因為想用這篇參加<a href="https://eddielv.com/articles/a-sentence-changing-you/">5月的 BlogBlog</a>，但寫到這裡才發現，我居然都還沒進入這次的主題😨 <br>
-如果真的要選一句 Wiwi 說過的「改變我人生觀的一句話」的話，大概就是在<a href="https://wiwi.video/w/vwyX6X8c3xPttYKrCCDkqv">這部影片</a>中提到的：</p><blockquote>
-<p>只要幫助自由軟體得到一點點的進步，就等於在幫助全人類</p></blockquote>
+如果真的要選一句 Wiwi 說過的「改變我人生觀的一句話」的話，大概就是在<a href="https://wiwi.video/w/vwyX6X8c3xPttYKrCCDkqv?start=4m2s">這部影片</a>中提到的：</p><blockquote>
+<p>只要幫助自由軟體得到一點點的進步，就等於在幫助全世界的人類</p></blockquote>
 <p>我想，國小時大概就是受到這樣的精神吸引，而對自由軟體如此嚮往吧。在了解了自由軟體追求公共利益的理念，並實際運用了大家創造的成果後，也讓我更深刻的體會到自由軟體存在的意義，不只是追求免費而已。因為 Wiwi 的推廣，讓我成為了這樣理念的受益者與實踐者。現在，我也透過分享實際使用經驗、小額贊助，期許自己小小的力量，能夠成為自由軟體進步的助力。</p><p>同時，這句話讓我不只可以心安理得地當免費仔，甚至還覺得自己當的很有價值🤣</p>
             ]]>
         </content>
