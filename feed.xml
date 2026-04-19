@@ -3,7 +3,7 @@
     <title>王昱荃 Alan Wang</title>
     <link href="https://alanwang.art/feed.xml" rel="self" />
     <link href="https://alanwang.art" />
-    <updated>2026-04-20T03:00:36+08:00</updated>
+    <updated>2026-04-20T03:15:29+08:00</updated>
     <author>
         <name>王昱荃 Alan Wang</name>
     </author>
@@ -99,7 +99,7 @@
 </ul>
 <p>正式拍攝前，我自己先試拍了幾個鏡頭，看起來效果相當不錯，尤其最後的14號鏡頭！正式拍攝時，清晨的金黃色陽光會從坐在木棧板上的茶師背後灑落，更能照耀出喝茶時，內心因茶而明亮的感動😇</p><div style="text-align: center; margin: 2rem 0;">
   <video loading="lazy" autoplay loop muted playsinline style="width: 30%; max-width: 30%; border-radius: 4px;">
-    <source src="media/files/scene14.webm" type="video/webm">
+    <source src="{{@file/scene14.webm}}" type="video/webm">
     場次2-鏡號14-demo
   </video>
 </div>
