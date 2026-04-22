@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://alanwang.art/exotic-herb-teabag-promo-video/",
+            "url": "https://alanwang.art/exotic-herb-teabag-promo-video/",
+            "title": "未竟之夢，抑是空中樓閣？──奇花異草茶包宣傳影片",
+            "summary": "<p><em>系列紀錄我那些規劃完成，但沒能實行的企劃，安放在此，讓他們告一個段落。</em></p><p>2023年底，《若晞茶空間》新推出產品「奇花異草茶包」，這是一款以古樹茶籽配上老普洱茶，再加入頂級西洋蔘製成、用於養氣補身的茶。為了讓人們在日常快速又方便地達成效果，特別設計成茶包形式沖泡。</p><p>產品包裝一定案，我就對製作宣傳影片有了想法。我想模仿大概在2019年前後在 YouTube 很流行的 The “Daniel Schiffer” Style (或 Peter McKinnon Style)，也就是所謂的「<a href=\"https://youtu.be/3mZuJAWH1Ow?si=NBp6SklwOCseb1WG&t=584\">B-Roll</a> 」影片風格😎</p>",
+            "content_html": "<p><em>系列紀錄我那些規劃完成，但沒能實行的企劃，安放在此，讓他們告一個段落。</em></p><p>2023年底，《若晞茶空間》新推出產品「奇花異草茶包」，這是一款以古樹茶籽配上老普洱茶，再加入頂級西洋蔘製成、用於養氣補身的茶。為了讓人們在日常快速又方便地達成效果，特別設計成茶包形式沖泡。</p><p>產品包裝一定案，我就對製作宣傳影片有了想法。我想模仿大概在2019年前後在 YouTube 很流行的 The “Daniel Schiffer” Style (或 Peter McKinnon Style)，也就是所謂的「<a href=\"https://youtu.be/3mZuJAWH1Ow?si=NBp6SklwOCseb1WG&t=584\">B-Roll</a> 」影片風格😎</p>\n其實在茶包推出的幾個月前，我為了[《茶席．體驗》影片拍攝](https://alanwang.art/tea-ceremony-experience-film-plan/)而研究影片拍攝手法，正好就發現了這樣的風格。當時便想找機會模仿一下，於是藉此機會，我將其用在奇花異草茶包宣傳影片上，同時也能夠展示沖泡方式。\n\n<p>不過，因為才剛經歷過<a href=\"https://alanwang.art/tea-ceremony-experience-film-plan/\">拍攝計畫被搞砸</a> ，我不想再跟人合作了。於是我想到了 3D 建模的世界，既可以模擬拍攝場景，又完全由我自己掌控。不需他人協助，就不會被破壞了！所以我直接轉移陣地到 Blender，開始「拍攝」影片😏</p><p>於是「奇花異草茶包宣傳影片動態分鏡」便完成了。</p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zIbGfZq7kW0?si=dHbaGqk6-LjTSXui\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<p>這次一樣是在沒有顯示卡的筆電上進行，因此建模依舊粗糙，而且我沒有學怎麼綁骨架，拿著杯子的手無法調整手勢，只能直接把拇指插入玻璃杯中了🤪</p><p>首先，我根據Logo原圖，做了創辦人的個人Logo動畫</p><p>接著進入打開包裝、將茶包放入保溫壺中、注入熱水，靜置等待的流程</p><p>而這種影片風格的剪輯精髓在於各種很炫的轉場：開場Logo動畫以相同視覺元素無縫銜接到茶包外包裝的Logo特寫、快速撕開包裝同時猛然甩動鏡頭、保溫壺蓋旋緊同時快速轉動鏡頭等等。而沖泡完畢後的靜置保溫壺鏡頭，則透過打光光源位置的緩慢移動，暗示時間的流逝，意指需要等待一段時間才能喝茶。最後倒一杯茶，置於產品包裝旁，上字卡，結束影片。</p><p>影片中包含音樂、轉場音效等所有聲音，都是我用合成器軟體Helm製作的。音樂風格配合開頭動畫的科技感，以及營造產品特殊、珍稀的定位，設定為7拍。確立整體調性後，我以正弦波演奏主旋律，再用Pad鋪墊，以加強科技感。旋律則是我自己想的一段「<a href=\"https://www.instagram.com/reel/C3EocP7vtkK/\">若晞動機</a> ：D E G C B G D」發展而來。而打擊與Bass，本來想要模仿真實鼓組與Double Bass的音色，但是憑感覺在合成器上亂做，最終只能做出破銅爛鐵的音色…尤其銅鈸，好像在敲鍋蓋一樣😩</p><p>最後，將每一個鏡頭從 Blender 中渲染輸出後，與配樂、音效一起放到Olive中進行剪輯，影片就完成了🥳</p><p>影片完成後，按照慣例，我將成品傳給創辦人，也分享到工作群組給大家看。毫不意外的得到了很棒、幾個貼圖之類的罐頭回覆，不過，在做完這個 3D 動畫之後，這個企劃在我心中便已完成，所以我完全不在意其他人的冷淡反應😊</p><p>我還是姑且找了同事問他的感想，並試探他是否有意願將其拍攝成實際的宣傳影片。他居然說好！那就等著看囉😏</p><p>當然，毫不意外的，三年過去了，影片到現在依然沒有拍出來🤣</p><p>經歷多次合作失敗後，我終於體悟出「只要不需要跟別人合作，我的計畫就不會被破壞」，而這次正是首次實證成功，也成為了這系列中，少數在我心中沒有留下遺憾的篇章👍</p><p>而兩年後，我為這道《奇花異草茶》作曲，並在2025年舉辦的<a href=\"https://alanwang.art/melodic-tea-gathering/\">《樂音茶席》</a>中演出，又是另一個故事了。</p>",
+            "author": {
+                "name": "王昱荃 Alan Wang"
+            },
+            "tags": [
+                   "Tea｜時間與感官",
+                   "Fragments｜總集"
+            ],
+            "date_published": "2026-04-23T01:10:55+08:00",
+            "date_modified": "2026-04-23T01:27:06+08:00"
+        },
+        {
             "id": "https://alanwang.art/tea-ceremony-experience-film-plan/",
             "url": "https://alanwang.art/tea-ceremony-experience-film-plan/",
             "title": "未竟之夢，抑是空中樓閣？──《茶席．體驗》影片拍攝企劃",
@@ -165,22 +181,6 @@
             ],
             "date_published": "2026-04-12T18:08:03+08:00",
             "date_modified": "2026-04-18T10:40:31+08:00"
-        },
-        {
-            "id": "https://alanwang.art/ai-assisted-parametric-pattern-making/",
-            "url": "https://alanwang.art/ai-assisted-parametric-pattern-making/",
-            "title": "AI 打版",
-            "summary": "<p>最近在做一件打算在演出時穿的「Boxy短版大翻領無扣西裝外套」——想要跟上潮流，實際製作又不會太困難的選擇😏</p>\n",
-            "content_html": "<p>最近在做一件打算在演出時穿的「Boxy短版大翻領無扣西裝外套」——想要跟上潮流，實際製作又不會太困難的選擇😏</p>\n\n<p>這是第一次挑戰做西裝外套，從打版開始就有大量的技術細節是我完全不會的，於是我異想天開：不然用AI來幫我補足這塊吧～我仔細設計了一套很厲害的Prompt，還一口氣請了三個AI助理同時協作——Chatgpt, Gemini, Claude 三個模型互相監督，應該就不容易出錯了吧！而且我是在電腦上使用參數化打版軟體<span style=\"color: #b96ad9;\"><a href=\"https://smart-pattern.com.ua/en/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #b96ad9;\">Valentina</a></span>，這簡直就是為AI量身打造的工作流程！（AI跟我說的）於是，計畫就如火如荼的展開了💪</p>\n<p>我之前做衣服打版大部分都是憑感覺畫線，這次改用AI設計公式，再代入量身數據做圖。因為公式很複雜，加上AI很會講，他的每一步永遠都聽起來很有道理，很多步驟當下根本無法驗證正確性，都要到某個階段才猛然發現，整張圖怎麼錯的離譜？！只好一步一步迴朔，然後發現AI偶爾會在某個步驟藏著致命錯誤...如果對打版沒有清楚的概念，操作當下沒有馬上察覺，等到圖看起來好像哪裡怪怪的時候，可能已經花掉好幾個小時了😵</p>\n<p>於是，我的打版作業很快從「AI助理協作繪圖」（美好的想像）變成了「AI抓錯大會」（殘酷的現實）🤯</p>\n<p>更好笑的是，我為了能夠抓出AI的潛在錯誤，又必須自己去查資料，學習正確的服裝打版知識，不但沒躲掉做西裝的技術細節，反而扎扎實實地學起來了...然而這時我才意識到：我都已經學會了，那還要AI做什麼呢🤡</p>\n<p>最後，只好放棄整個計畫，把AI從「協作設計師」降級成小助理，只幫我：</p>\n<ul>\n<li>文書處理：幫量身數據取代號，方便輸入打版軟體，像是@B=胸圍、@W=腰圍等</li>\n<li>做為臨時資料查詢站：臨時需要查小資訊時問一下，省去上網查的時間，且時常能夠從回覆中學到我原本不知道的服裝製作常識（但到後來發現就連回答小問題都有可能藏著錯誤，所以我問完還是會自己再去查一次...）</li>\n<li>提供一些數值上的參考：像是Boxy版形通常放寬多少、下擺落在腰線上下幾公分之類的，問一下取個參考值。</li>\n</ul>\n<p>這次經驗讓我切身體會到：擁有再強的生產力工具，如果本身沒有對應的知識，仍然發揮不了真正的價值。在已經了解服裝製作的前提下，AI能夠放大能力，反之卻完全不可行。<br><br>我相信AI在服裝設計領域一定還有更好的使用方式，只是還是得先了解一定的基礎知識，否則就像我這樣，被耍得團團轉，白忙一整週，最終還是得靠自己打版完成😐</p>\n<p>痛苦的打版階段完成了，接下來的縫紉又是全新的挑戰💪，期望能夠早日迎來把成品照放上來的一天～</p>",
-            "author": {
-                "name": "王昱荃 Alan Wang"
-            },
-            "tags": [
-                   "Making｜結構與手感",
-                   "Fragments｜總集"
-            ],
-            "date_published": "2026-04-11T01:38:00+08:00",
-            "date_modified": "2026-04-14T16:38:28+08:00"
         }
     ]
 }
