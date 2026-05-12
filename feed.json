@@ -20,11 +20,12 @@
                 "name": "王昱荃 Alan Wang"
             },
             "tags": [
+                   "Selected Curation｜編選集",
                    "Music｜現場與練習",
                    "Fragments｜總集"
             ],
             "date_published": "2026-05-12T18:19:46+08:00",
-            "date_modified": "2026-05-12T18:26:56+08:00"
+            "date_modified": "2026-05-13T01:34:21+08:00"
         },
         {
             "id": "https://alanwang.art/evergreen-symphony-russian-french-rhapsody-concert-review/",
@@ -37,11 +38,12 @@
                 "name": "王昱荃 Alan Wang"
             },
             "tags": [
+                   "Selected Curation｜編選集",
                    "Music｜現場與練習",
                    "Fragments｜總集"
             ],
             "date_published": "2026-05-11T08:31:58+08:00",
-            "date_modified": "2026-05-11T08:41:47+08:00"
+            "date_modified": "2026-05-13T01:34:29+08:00"
         },
         {
             "id": "https://alanwang.art/one-voice-for-taiwan-artist-lab-review/",
@@ -70,12 +72,11 @@
                 "name": "王昱荃 Alan Wang"
             },
             "tags": [
-                   "Notes｜文字．片段",
                    "Music｜現場與練習",
                    "Fragments｜總集"
             ],
             "date_published": "2026-05-01T01:28:15+08:00",
-            "date_modified": "2026-05-03T23:32:55+08:00"
+            "date_modified": "2026-05-13T01:23:22+08:00"
         },
         {
             "id": "https://alanwang.art/first-handmade-clothing/",
@@ -109,7 +110,7 @@
                    "Fragments｜總集"
             ],
             "date_published": "2026-04-28T11:10:00+08:00",
-            "date_modified": "2026-05-02T00:28:02+08:00"
+            "date_modified": "2026-05-13T01:18:41+08:00"
         },
         {
             "id": "https://alanwang.art/unrealized-dream-jazz-weekend-jam-session-plan/",
@@ -122,7 +123,7 @@
                 "name": "王昱荃 Alan Wang"
             },
             "tags": [
-                   "Notes｜文字．片段",
+                   "Interlude｜片刻之章",
                    "Fragments｜總集"
             ],
             "date_published": "2026-04-27T22:23:00+08:00",
@@ -143,7 +144,7 @@
                    "Fragments｜總集"
             ],
             "date_published": "2026-04-26T18:55:17+08:00",
-            "date_modified": "2026-04-30T14:41:08+08:00"
+            "date_modified": "2026-05-13T01:19:39+08:00"
         },
         {
             "id": "https://alanwang.art/unrealized-dream-tea-experience-event/",
@@ -156,7 +157,7 @@
                 "name": "王昱荃 Alan Wang"
             },
             "tags": [
-                   "Notes｜文字．片段",
+                   "Interlude｜片刻之章",
                    "Fragments｜總集"
             ],
             "date_published": "2026-04-26T02:13:48+08:00",
@@ -174,11 +175,10 @@
             },
             "tags": [
                    "Tea｜時間與感官",
-                   "Notes｜文字．片段",
                    "Fragments｜總集"
             ],
             "date_published": "2026-04-25T03:06:00+08:00",
-            "date_modified": "2026-04-28T21:02:18+08:00"
+            "date_modified": "2026-05-13T01:23:03+08:00"
         }
     ]
 }
